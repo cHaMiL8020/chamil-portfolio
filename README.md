@@ -16,7 +16,7 @@ Currently pursuing MSc in Autonomous Systems & Robotics at University of Klagenf
 - 🔧 [Industrial Predictive Maintenance](projects/predictive-maintenance.md)  
 - 📈 [Super-Resolution Autoencoder](projects/super-resolution-autoencoder.md)  
 - ⚡ [Edge Forecasting with dCeNN + ELM + ASP](projects/edge-forecasting-dcnn-elm-asp.md)  
-- 📊 [MBA Reports](projects/mba-reports.md)  
+- 📊 [Business Reports](projects/business-reports.md)  
 
 ---
 
