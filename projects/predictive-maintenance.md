@@ -12,7 +12,8 @@ The system achieved significant **cost savings (~EUR 21,300 annually)** by enabl
 ---
 
 ## 🔹 Context
-- **Type:** BSc (Hons) Mechatronic Engineering – Final Year Research Project  
+- **Type:** BSc (Hons) Mechatronic Engineering – Final Year Research Project
+- **Year:** 2020 
 - **Institution:** Atlas Axillia, Sri Lanka (Industry Partner)  
 - **Team Role:** Lead developer – responsible for data pipeline design, model training, and dashboard integration.  
 
