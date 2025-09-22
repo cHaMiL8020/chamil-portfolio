@@ -1,5 +1,5 @@
 # chamil-portfolio
-Personal portfolio showcasing my work in Industrial AI, Robotics, and Edge/Embedded ML — including predictive maintenance, super-resolution research, edge forecasting, ERP digitalization, Business reports, robotics competitions, and publications.
+Personal portfolio showcasing my work in Industrial AI, Robotics, and Edge/Embedded ML — including predictive maintenance, super-resolution research, edge forecasting, ERP digitalization, business reports, robotics competitions, and publications.
 
 # 👋 Hi, I'm Chamil Oshan Abeysekara  
 **Industrial AI & Robotics | Edge/Applied ML | Predictive Maintenance | ERP | Digitalization**
