@@ -55,5 +55,5 @@ We propose a **deep convolutional autoencoder (AESR)** enhanced with **skip conn
 ---
 
 🔗 **Colab Implementation:** [AESR on DIV2K](https://bit.ly/AESR-DIV2K-Colab)  
-🔗 **Conference Website:** [CSCC 2025](https://cscc.uth.gr/) *(proceedings link will be added once available)*  
+🔗 **Conference Website:** [CSCC 2025](https://www.cscc.co/) *(proceedings link will be added once available)*  
 
