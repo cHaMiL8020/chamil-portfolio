@@ -36,7 +36,7 @@ Currently pursuing MSc in Autonomous Systems & Robotics at University of Klagenf
 ## 🔹 Contact
 ✉️ [chamilabeysekara@gmail.com](mailto:chamilabeysekara@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/chamil-abeysekara-981951140)  
-📄 [CV](docs/cv/docs/cv/Chamil_Abeysekara_CV.pdf)
+📄 [CV](docs/cv/Chamil_Abeysekara_CV.pdf)
 
 
 ## 📜 License
