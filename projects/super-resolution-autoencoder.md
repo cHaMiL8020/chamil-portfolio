@@ -66,7 +66,7 @@ The work led to a **conference paper** presented at **CSCC 2025 (Italy)** and de
 ## 🔹 Links & Resources
 - 📄 [Published Paper](../publications/published.md)  
 - 📓 [Jupyter Notebooks](https://bit.ly/AESR-DIV2K-Colab)  
-- 📊 [Results & Plots](../images/super-resolution-results.png)  
+- 📊 [Results & Plots](../images/super-resolution-results.png)  [In Progress]
 
 ---
 
