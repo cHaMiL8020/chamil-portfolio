@@ -15,10 +15,10 @@ The combination delivers **efficient, interpretable, and rule-compliant anomaly 
 
 ## 🔹 Context
 - **Type:** MSc Thesis + Research Project  
-- **Year:** 2024–2025  
+- **Year:** 2025–2026  
 - **Institution:** University of Klagenfurt, Austria  
 - **Outcomes:**  
-  - Extended abstract accepted at **AUTSYS 2025** (*Comparative Evaluation of Lightweight Anomaly Detection Techniques Across Diverse Models and Multi-Modal Datasets for Autonomous Robotic Edge Platforms*).  
+  - Extended abstract (*Comparative Evaluation of Lightweight Anomaly Detection Techniques Across Diverse Models and Multi-Modal Datasets for Autonomous Robotic Edge Platforms*).  
   - Review paper in preparation: *A Critical and Comprehensive State of the Art Review on Combining Learning and Reasoning for Edge Anomaly Detection.*  
 
 ---
