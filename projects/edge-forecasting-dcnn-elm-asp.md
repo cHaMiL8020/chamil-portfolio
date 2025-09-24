@@ -1,4 +1,3 @@
-
 # ⚡ Edge Forecasting with dCeNN + ELM + ASP (2024–2025)
 
 ---
@@ -10,7 +9,7 @@ The approach integrates:
 - **Extreme Learning Machines (ELM)** for fast, single-pass classification  
 - **Answer Set Programming (ASP)** for rule consistency and symbolic reasoning  
 
-The combination aims to deliver **efficient, interpretable, and rule-compliant anomaly detection** directly at the edge — without reliance on cloud computing.  
+The combination delivers **efficient, interpretable, and rule-compliant anomaly detection** directly at the edge — without reliance on cloud computing.  
 
 ---
 
@@ -87,3 +86,13 @@ The combination aims to deliver **efficient, interpretable, and rule-compliant a
 - Integrate **adversarial robustness testing** for safety-critical robotics.  
 - Deploy full pipeline in a **smart factory robotic platform** for predictive maintenance.  
 - Extend framework to support **multi-agent robotic swarms** in Industry 4.0.  
+
+---
+
+## 🔹 Alignment with Industry 5.0
+While rooted in **Industry 4.0 applications** (smart factories, predictive maintenance, robotics), this research also supports the **Industry 5.0 vision**:  
+- **Human-centric AI** – explainable results through ASP reasoning.  
+- **Sustainability** – lightweight, energy-efficient deployment on edge devices.  
+- **Resilience** – hybrid learning + reasoning improves robustness against faults.  
+
+This dual perspective ensures the framework remains relevant for both **current Industry 4.0 deployments** and the **emerging Industry 5.0 paradigm**.  
