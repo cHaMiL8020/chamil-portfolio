@@ -76,8 +76,8 @@ The combination delivers **efficient, interpretable, and rule-compliant anomaly 
 
 ## 🔹 Links & Resources
 - 📄 [Benchnark 2025 Extended Abstract](../publications/preprints.md)  
-- 📓 [Benchmark Notebooks](../docs/notebooks/edge-forecasting/)  
-- 📝 [Review Paper Draft](../docs/manuscripts/review-paper/)  
+- 📓 [Benchmark Notebooks](../docs/notebooks/edge-forecasting/)   [In Progress]
+- 📝 [Review Paper Draft](../docs/manuscripts/review-paper/)   [In Progress]
 
 ---
 
